@@ -9,7 +9,7 @@ namespace GreatestOfArray
     /*
     Programmer: Ashley (Ian Lawton).
     Date: 3/21/2018.
-    This is a more useful class that can calculate: Square roots, cube roots, and quadratic values.
+    This is a basic but hopefully useful class that can calculate: Square roots, cube roots, and quadratic values.
     Here are instructions on use.
     Quadratics:
     There are two quadratic functions for both the normal and the fast implementations (the normal being optimized 
