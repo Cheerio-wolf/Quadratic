@@ -263,7 +263,7 @@ namespace GreatestOfArray
             }
             else if ((square(b) - (4 * a * c)) < 0)
             {
-                return null;
+                return 0;
             }
             return x;
         }
@@ -278,7 +278,7 @@ namespace GreatestOfArray
             }
             else if ((square(b) - (4 * a * c)) < 0)
             {
-                return null;
+                return 0;
             }
             return x;
         }
@@ -293,7 +293,7 @@ namespace GreatestOfArray
             }
             else if ((square(b) - (4 * a * c)) < 0)
             {
-                return null;
+                return 0;
             }
             return x;
         }
@@ -308,7 +308,7 @@ namespace GreatestOfArray
             }
             else if ((square(b) - (4 * a * c)) < 0)
             {
-                return null;
+                return 0;
             }
             return x;
         }
@@ -323,7 +323,7 @@ namespace GreatestOfArray
             }
             else if ((square(b) - (4 * a * c)) < 0)
             {
-                return null;
+                return 0;
             }
             return x;
         }
@@ -338,7 +338,7 @@ namespace GreatestOfArray
             }
             else if ((square(b) - (4 * a * c)) < 0)
             {
-                return null;
+                return 0;
             }
             return x;
         }
@@ -353,7 +353,7 @@ namespace GreatestOfArray
             }
             else if ((square(b) - (4 * a * c)) < 0)
             {
-                return null;
+                return 0;
             }
             return x;
         }
@@ -368,7 +368,7 @@ namespace GreatestOfArray
             }
             else if ((square(b) - (4 * a * c)) < 0)
             {
-                return null;
+                return 0;
             }
             return x;
         }
