@@ -25,7 +25,6 @@ namespace GreatestOfArray
     //For repeated use within a program, I advise creating a void method that writes to the console both outputs.
     square:
     Mathematics.square(3);
-    //Basically, it's similar for all the methods, just have the class name, dot the method name, and the arguments
     //provided within the parentheses.
     //and holy crap don't use two different data types for the quadratics. I created overloaded methods so they
     //will do either all int or all double.
@@ -264,7 +263,7 @@ namespace GreatestOfArray
             }
             else if ((square(b) - (4 * a * c)) < 0)
             {
-                return x;
+                return null;
             }
             return x;
         }
@@ -279,7 +278,7 @@ namespace GreatestOfArray
             }
             else if ((square(b) - (4 * a * c)) < 0)
             {
-                return x;
+                return null;
             }
             return x;
         }
@@ -294,7 +293,7 @@ namespace GreatestOfArray
             }
             else if ((square(b) - (4 * a * c)) < 0)
             {
-                return x;
+                return null;
             }
             return x;
         }
@@ -309,7 +308,7 @@ namespace GreatestOfArray
             }
             else if ((square(b) - (4 * a * c)) < 0)
             {
-                return x;
+                return null;
             }
             return x;
         }
@@ -324,7 +323,7 @@ namespace GreatestOfArray
             }
             else if ((square(b) - (4 * a * c)) < 0)
             {
-                return x;
+                return null;
             }
             return x;
         }
@@ -339,7 +338,7 @@ namespace GreatestOfArray
             }
             else if ((square(b) - (4 * a * c)) < 0)
             {
-                return x;
+                return null;
             }
             return x;
         }
@@ -354,7 +353,7 @@ namespace GreatestOfArray
             }
             else if ((square(b) - (4 * a * c)) < 0)
             {
-                return x;
+                return null;
             }
             return x;
         }
@@ -369,7 +368,7 @@ namespace GreatestOfArray
             }
             else if ((square(b) - (4 * a * c)) < 0)
             {
-                return x;
+                return null;
             }
             return x;
         }
